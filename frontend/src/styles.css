@@ -1,0 +1,14 @@
+
+/* src/styles/styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+    /* Custom component styles here */
+}
+
+@layer utilities {
+    /* Custom utility styles here */
+}

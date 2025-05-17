@@ -1,0 +1,30 @@
+Student-Management-System/
+│
+├── backend/
+│   ├── controllers/
+│   │   └── studentController.js
+│   ├── db/
+│   │   └── db.js
+│   ├── routes/
+│   │   └── studentRoutes.js
+│   └── server.js
+│
+├── frontend/
+│   ├── dist/
+│   │   └── styles.css          # Built CSS file (output from the build process)
+│   ├── node_modules/           # Node modules specific to the frontend
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   └── StudentTable.jsx
+│   │   ├── styles.css          # Source CSS file (during development)
+│   │   ├── app.jsx
+│   │   ├── index.js
+│   │   └── postcss.config.js
+│   ├── tailwind.config.js
+│   ├── index.html
+│
+├── postcss.config.js           # Main PostCSS config for the entire project
+├── tailwind.config.js          # Main Tailwind config for the entire project
+├── package.json                # Project metadata and dependencies
+└── package-lock.json           # Lock file for dependencies
