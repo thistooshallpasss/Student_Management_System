@@ -27,7 +27,8 @@ Follow these steps to set up the project locally.
 ## License
 
 This project is licensed under the MIT License.
+<img width="390" alt="phase1_directory" src="https://github.com/user-attachments/assets/8ef8acd0-6939-4257-865e-bcb8bcbf13fc" />
 
-<img width="390" alt="phase1_directory" src="https://github.com/user-attachments/assets/cb966afd-3f74-4eab-a56c-0cebfec3c9b5" />
+<img width="1018" alt="Screenshot 2025-05-17 at 15 59 15" src="https://github.com/user-attachments/assets/a9e10516-b150-48f4-b96e-31cb3e776401" />
 
-<img width="1018" alt="Screenshot 2025-05-17 at 15 59 15" src="https://github.com/user-attachments/assets/7e8c754d-1285-42b8-8a61-f88712a47c09" />
+
